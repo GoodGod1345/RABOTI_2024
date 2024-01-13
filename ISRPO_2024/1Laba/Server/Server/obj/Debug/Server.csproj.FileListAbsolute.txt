@@ -1,0 +1,7 @@
+c:\users\429194-7\source\repos\Server\Server\bin\Debug\Server.exe.config
+c:\users\429194-7\source\repos\Server\Server\bin\Debug\Server.exe
+c:\users\429194-7\source\repos\Server\Server\bin\Debug\Server.pdb
+c:\users\429194-7\source\repos\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+c:\users\429194-7\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+c:\users\429194-7\source\repos\Server\Server\obj\Debug\Server.exe
+c:\users\429194-7\source\repos\Server\Server\obj\Debug\Server.pdb

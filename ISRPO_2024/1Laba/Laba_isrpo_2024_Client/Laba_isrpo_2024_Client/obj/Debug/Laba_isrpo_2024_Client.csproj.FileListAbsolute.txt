@@ -1,0 +1,7 @@
+c:\users\429194-7\source\repos\Laba_isrpo_2024_Client\Laba_isrpo_2024_Client\bin\Debug\Laba_isrpo_2024_Client.exe.config
+c:\users\429194-7\source\repos\Laba_isrpo_2024_Client\Laba_isrpo_2024_Client\bin\Debug\Laba_isrpo_2024_Client.exe
+c:\users\429194-7\source\repos\Laba_isrpo_2024_Client\Laba_isrpo_2024_Client\bin\Debug\Laba_isrpo_2024_Client.pdb
+c:\users\429194-7\source\repos\Laba_isrpo_2024_Client\Laba_isrpo_2024_Client\obj\Debug\Laba_isrpo_2024_Client.csprojAssemblyReference.cache
+c:\users\429194-7\source\repos\Laba_isrpo_2024_Client\Laba_isrpo_2024_Client\obj\Debug\Laba_isrpo_2024_Client.csproj.CoreCompileInputs.cache
+c:\users\429194-7\source\repos\Laba_isrpo_2024_Client\Laba_isrpo_2024_Client\obj\Debug\Laba_isrpo_2024_Client.exe
+c:\users\429194-7\source\repos\Laba_isrpo_2024_Client\Laba_isrpo_2024_Client\obj\Debug\Laba_isrpo_2024_Client.pdb
